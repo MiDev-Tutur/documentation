@@ -1,29 +1,46 @@
-# 📁 Project Documentation Repository
+# 📁 Tutur Project Documentation
 
-> A centralized hub for all project documentation, research, and media assets.
-
----
-
-## 📌 Overview
-
-This repository contains the complete documentation for the **Tutur Application** development project including final reports, presentation slides, demo video links, and all other materials related to the application's development lifecycle.
+> Centralized repository for all documentation, research materials, and media assets related to the **Tutur Application** project.
 
 ---
 
-## 📂 Contents
+## 📌 Project Overview
+
+This repository serves as the **official documentation hub** for the development of the **Tutur Application**.  
+It contains all supporting materials produced throughout the project lifecycle, including reports, presentations, and demonstration resources.
+
+The goal of this repository is to ensure that all project information is **organized, accessible, and easy to reference**.
+
+---
+
+## 📂 Repository Contents
 
 | Asset | Description |
-|-------|-------------|
-| 📄 **Final Report** | Comprehensive written report of the project |
-| 🖼️ **Presentation Slides** | Slide deck used for the project pitch |
-| 🎥 **Demo Video** | Link to the Tutur app pitching & demo video |
+|------|-------------|
+| 📄 **Final Report** | Comprehensive documentation detailing the project background, methodology, implementation, and results |
+| 🖼️ **Presentation Slides** | Slide deck used during the official project presentation and pitch |
+| 🎥 **Demo Video** | Video demonstrating the Tutur application features and use cases |
 
 ---
 
-## 🔗 Quick Links
+## 🔗 Quick Access
 
-- 📽️ **Pitching & Demo Video** → _[Add link here]_
+- 🎥 **Pitching & Demo Video**  
+  https://www.youtube.com/watch?v=XO9P6f7cpsk
+
+- 🌐 **Tutur Application**  
+  http://tutur-app.my.id/
 
 ---
 
-*Last updated: 2026*
+## 📅 Project Information
+
+| Item | Details |
+|-----|--------|
+| Project Name | **Tutur – AI Powered Language Learning for Indigenous ASEAN Languages** |
+| Repository Purpose | Documentation & Supporting Assets |
+| Last Updated | **2026** |
+
+---
+
+*Maintained for documentation and presentation purposes.*
